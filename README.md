@@ -18,19 +18,19 @@ Fig. 2. Complete Block Diagram of the Architecture.
 
 
 <img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/e2edcca5-6711-40b1-9210-fe0ca5c76cc8" />
-<br> <br>
+<br> <br> <br>
 <img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/f4ff6663-ed58-43b5-bdea-daa3e89177ce" />
-<br> <br>
+<br> <br> <br>
 <img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/1bd97015-ba21-44ae-90e3-2bf76f1ca703" />
-<br> <br>
+<br> <br> <br>
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/471605ea-015f-49a3-b8ac-8fdb8b651218" />
-<br> <br>
+<br> <br> <br>
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/9a64ea3a-68d3-4029-b2c8-498c0c82e169" />
-<br> <br>
+<br> <br> <br>
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f7dd6c8e-c8f2-4708-99f9-71916bd1ac4c" />
-<br> <br>
-<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/4dc4154b-6006-4ab0-99d7-1eecb039b248" />
-<br> <br>
+<br> <br> <br>
+<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/4dc4154b-6006-4ab0-99d7-1eecb039b248" />
+<br> <br> <br>
 
 
 
