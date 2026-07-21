@@ -1,7 +1,8 @@
 # Leveraging-Gram-Matrix-in-Shallow-DNN-for-GI-Tract-MRI-Image-Segmentation
 GI tract MRI image segmentation is important for the diagnosis and treatment of many diseases. In case of GI tract cancer or tumor treatment, radio oncologists must apply X-ray beams pointing towards the tumor cell while avoiding the other organs. The traditional segmentation process for the MRI scan is time consuming and labor intensive. A computer aided fast and accurate method is required. UNet, UNet++, Attention UNet are some of the deep learning architectures used in this purpose having remarkable performance. Most of these architectures inherit significant computational complexity. In this paper, a gram matrix oriented shallow DNN is proposed which will bypass the traditional attention mechanism. Due to the simplified computation o f t he proposed model, i t yields similar or superior segmentation performance as compared to existing models and it has much lower number of trainable parameters in the range of 10 to 75 percent less the other models.
+<br> <br>
 
-<img width="1248" height="474" alt="image" src="https://github.com/user-attachments/assets/bc89ef55-02df-4b37-8c0b-a5b6c851c512" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/bc89ef55-02df-4b37-8c0b-a5b6c851c512" />
 Fig. 1. Percentage distribution of training images with mask.
 
 
