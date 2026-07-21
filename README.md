@@ -28,11 +28,14 @@ Fig. 4. Block Diagram of Vector Block.
 <img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/1bd97015-ba21-44ae-90e3-2bf76f1ca703" />
 <br>
 Fig. 5. Block Diagram of MLP Feature Block.
+
+
 <br> <br> <br>
+## Results
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/471605ea-015f-49a3-b8ac-8fdb8b651218" />
 <br>
 
-## Results
+
 
 <br> <br> <br>
 <img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/9a64ea3a-68d3-4029-b2c8-498c0c82e169" />
