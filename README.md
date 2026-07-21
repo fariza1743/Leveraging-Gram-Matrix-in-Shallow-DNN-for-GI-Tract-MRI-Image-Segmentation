@@ -3,20 +3,34 @@ GI tract MRI image segmentation is important for the diagnosis and treatment of 
 <br> <br>
 
 <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/bc89ef55-02df-4b37-8c0b-a5b6c851c512" />
+<br>
+
 Fig. 1. Percentage distribution of training images with mask.
+
+<br> <br>
 
 
 <img width="1477" height="632" alt="image" src="https://github.com/user-attachments/assets/31f1dcd7-cd49-4861-9c8a-916c0e19df34" />
+<br>
 Fig. 2. Complete Block Diagram of the Architecture.
 
+<br> <br>
 
-<img width="1228" height="658" alt="image" src="https://github.com/user-attachments/assets/e2edcca5-6711-40b1-9210-fe0ca5c76cc8" />
-<img width="1110" height="377" alt="image" src="https://github.com/user-attachments/assets/f4ff6663-ed58-43b5-bdea-daa3e89177ce" />
-<img width="954" height="366" alt="image" src="https://github.com/user-attachments/assets/1bd97015-ba21-44ae-90e3-2bf76f1ca703" />
-<img width="1258" height="545" alt="image" src="https://github.com/user-attachments/assets/471605ea-015f-49a3-b8ac-8fdb8b651218" />
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/9a64ea3a-68d3-4029-b2c8-498c0c82e169" />
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/f7dd6c8e-c8f2-4708-99f9-71916bd1ac4c" />
-<img width="1401" height="404" alt="image" src="https://github.com/user-attachments/assets/4dc4154b-6006-4ab0-99d7-1eecb039b248" />
+
+<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/e2edcca5-6711-40b1-9210-fe0ca5c76cc8" />
+<br> <br>
+<img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/f4ff6663-ed58-43b5-bdea-daa3e89177ce" />
+<br> <br>
+<img width="700" height="250" alt="image" src="https://github.com/user-attachments/assets/1bd97015-ba21-44ae-90e3-2bf76f1ca703" />
+<br> <br>
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/471605ea-015f-49a3-b8ac-8fdb8b651218" />
+<br> <br>
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/9a64ea3a-68d3-4029-b2c8-498c0c82e169" />
+<br> <br>
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/f7dd6c8e-c8f2-4708-99f9-71916bd1ac4c" />
+<br> <br>
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/4dc4154b-6006-4ab0-99d7-1eecb039b248" />
+<br> <br>
 
 
 
